@@ -49,7 +49,7 @@
 > API REST para gerenciamento de chamados/tickets de suporte técnico
 - Autenticação JWT, controle de papéis (admin/usuário/técnico)
 - Tecnologias: **Java**, **Spring Boot**, **Spring Security**, **MySQL**, **Docker**
-- [Ver repositório →](https://github.com/NicolasCajueiro/SEU-REPO-AQUI)
+- [Ver repositório →](https://github.com/DevNic0las/support-ticket-api)
 
 ---
 
@@ -57,15 +57,15 @@
 > Demonstração de mensageria assíncrona com RabbitMQ e Spring AMQP
 - Filas, exchanges, dead letter queues e retry automático
 - Tecnologias: **Java**, **Spring Boot**, **RabbitMQ**, **Docker Compose**
-- [Ver repositório →](https://github.com/NicolasCajueiro/SEU-REPO-AQUI)
+- [Ver repositório →](https://github.com/DevNic0las/Sistema-de-Notificacao-email)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NicolasCajueiro&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCajueiro&layout=compact&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DevNic0las&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNic0las&layout=compact&theme=default&hide_border=true" />
 </div>
 
 <div align="left" style="margin-top: 8px;">
