@@ -48,8 +48,8 @@
 ### 🎫 Sistema de Chamados
 > API REST para gerenciamento de chamados/tickets de suporte técnico
 - Autenticação JWT, controle de papéis (admin/usuário/técnico)
-- Tecnologias: **Java**, **Spring Boot**, **Spring Security**, **MySQL**, **Docker**
-- [Ver repositório →](https://github.com/DevNic0las/support-ticket-api)
+- Tecnologias: **Java**, **Spring Boot**, **Spring Security**, **Postgres**, **Docker**
+- [Ver repositório →](https://github.com/DevNic0las/SEU-REPO-AQUI)
 
 ---
 
@@ -57,7 +57,7 @@
 > Demonstração de mensageria assíncrona com RabbitMQ e Spring AMQP
 - Filas, exchanges, dead letter queues e retry automático
 - Tecnologias: **Java**, **Spring Boot**, **RabbitMQ**, **Docker Compose**
-- [Ver repositório →](https://github.com/DevNic0las/Sistema-de-Notificacao-email)
+- [Ver repositório →](https://github.com/DevNic0las/SEU-REPO-AQUI)
 
 ---
 
@@ -69,7 +69,7 @@
 </div>
 
 <div align="left" style="margin-top: 8px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasCajueiro&theme=default&hide_border=true" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevNic0las&theme=default&hide_border=true" height="140" />
 </div>
 
 ---
