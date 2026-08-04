@@ -1,19 +1,20 @@
 <h1 align="left">Olá, sou Nicolas Cajueiro 👋</h1>
 
 <p align="left">
-  Desenvolvedor Backend com foco em <strong>Java + Spring Boot</strong>, construindo APIs robustas, sistemas de mensageria e soluções escaláveis.<br>
-  Apaixonado por boas práticas, arquitetura limpa e ferramentas que fazem a diferença em produção.
+  Desenvolvedor Backend Júnior com foco em <strong>Java + Spring Boot</strong>, construindo APIs, mensageria assíncrona e sistemas full-stack.<br>
+  Estudante de Sistemas de Informação, em busca da primeira oportunidade júnior em empresas remote-first.
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎯 Foco em **Backend com Java/Spring Boot** — APIs REST, microsserviços e mensageria
-- 🛠 Experiência com **RabbitMQ**, **Docker**, **MySQL** e **PostgreSQL** em projetos reais
-- 📐 Interesse em **Clean Architecture**, **Design Patterns** e boas práticas de desenvolvimento
-- 🌱 Sempre estudando: atualmente aprofundando em **Spring Security**, **testes automatizados** e **Kubernetes**
-- 💬 Aberto a oportunidades como Desenvolvedor Backend Júnior/Pleno
+- 🎯 Foco em **Backend com Java/Spring Boot** — APIs REST, mensageria assíncrona e arquitetura orientada a eventos
+- 🛠 Experiência prática com **RabbitMQ**, **Docker**, **PostgreSQL** e **JWT/Spring Security** em projetos reais
+- 📐 Interesse em **Clean Architecture**, DDD e padrões como Saga, CQRS e Outbox
+- 🌱 Estudando Sistemas de Informação (Estácio) e aprofundando em testes automatizados e observabilidade
+- 💬 Buscando minha primeira vaga como Desenvolvedor Backend Júnior/Estagiário
+- 📍 Pernambuco, Brasil
 
 ---
 
@@ -26,37 +27,34 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="docker" title="Docker" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="mysql" title="MySQL" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="postgresql" title="PostgreSQL" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="36" alt="rabbitmq" title="RabbitMQ" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="36" alt="angular" title="Angular" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="linux" title="Linux" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="php" title="PHP" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="36" alt="laravel" title="Laravel" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript" title="JavaScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="vuejs" title="Vue.js" />
 </div>
 
 ---
 
 ## 📦 Projetos em destaque
 
-### 🎫 Sistema de Chamados
-> API REST para gerenciamento de chamados/tickets de suporte técnico
-- Autenticação JWT, controle de papéis (admin/usuário/técnico)
-- Tecnologias: **Java**, **Spring Boot**, **Spring Security**, **Postgres**, **Docker**
-- [Ver repositório →](https://github.com/DevNic0las/SEU-REPO-AQUI)
+### 🐇 Order Flow
+> Projeto de portfólio focado em arquitetura de mensageria assíncrona
+- Fluxo completo entre módulos `order`, `inventory` e `notification`, com exchanges diretas e fanout, dead letter queue e retry
+- Tecnologias: **Java**, **Spring Boot**, **RabbitMQ**, **PostgreSQL**, **MapStruct**, **Docker**
+- [Ver repositório →](https://github.com/DevNic0las/order-flow)
 
 ---
 
-### 🐇 Integração com RabbitMQ
-> Demonstração de mensageria assíncrona com RabbitMQ e Spring AMQP
-- Filas, exchanges, dead letter queues e retry automático
-- Tecnologias: **Java**, **Spring Boot**, **RabbitMQ**, **Docker Compose**
+### 🌉 Ponte
+> Sistema full-stack de gerenciamento de chamados, proposto para substituir o sistema de uma empresa real — atuei como líder técnico de um time de 4 pessoas
+- Backend com Spring Security 6 (JWT), JPA/Hibernate, Flyway e regras de negócio (SLA, soft delete)
+- Frontend em Angular/Ionic com componentes standalone e signals; build Android via Capacitor
+- Tecnologias: **Java**, **Spring Boot**, **Angular**, **Ionic**, **PostgreSQL**
 - [Ver repositório →](https://github.com/DevNic0las/SEU-REPO-AQUI)
 
 ---
